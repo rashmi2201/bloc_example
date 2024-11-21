@@ -2,7 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+## Result
+
+<img src="https://github.com/rashmi2201/bloc_example/blob/main/outputs/result.gif" height=400>
 
 This project is a starting point for a Flutter application.
 
